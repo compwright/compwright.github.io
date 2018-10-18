@@ -15,10 +15,11 @@ There are hackers, and there are craftsman. I'm a craftsman--I build beautiful t
 
 Wanna hire me? [Here's my resume.](https://stackoverflow.com/cv/jhill)
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/compwright" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/compwright', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
+<!-- Calendly badge widget end -->
 
 ### Contact me
 
