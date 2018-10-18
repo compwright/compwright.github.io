@@ -8,7 +8,7 @@ _Comp(uter) + Wright (a maker, or builder--a craftsman)_
 
 There are hackers, and there are craftsman. I'm a craftsman--I build beautiful things for the web.
 
-### Hire me
+## Hire me
 
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -18,7 +18,7 @@ There are hackers, and there are craftsman. I'm a craftsman--I build beautiful t
 * [Resume](https://stackoverflow.com/cv/jhill)
 * <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/compwright/30min');return false;">Request a meeting</a>
 
-### Contact me
+## Contact me
 
 * Email: [jonathon@compwright.com](mailto:jonathon@compwright.com)
 * Phone: [+1 864-245-5885](tel:+1 864-245-5885)
