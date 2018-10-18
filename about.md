@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-### What is a "CompWright?"
+What is a "CompWright?"
 
-_Comp(uter) + Wright (a maker, or builder--a craftsman)_
+    Comp(uter) + Wright (a maker, or builder--a craftsman)
 
 There are hackers, and there are craftsman. I'm a craftsman--I build beautiful things for the web.
 
