@@ -4,20 +4,19 @@ title: About
 permalink: /about/
 published: true
 ---
-
 _Comp(uter) + Wright (a maker, or builder--a craftsman)_
 
 There are hackers, and there are craftsman. I'm a craftsman--I build beautiful things for the web.
 
-### Resume
+### Hire me
 
-Wanna hire me? [Here's my resume.](https://stackoverflow.com/cv/jhill)
+[Resume](https://stackoverflow.com/cv/jhill)
 
-<!-- Calendly badge widget begin -->
+<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/compwright', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
-<!-- Calendly badge widget end -->
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/compwright/30min');return false;">Request a meeting</a>
+<!-- Calendly link widget end -->
 
 ### Contact me
 
