@@ -20,7 +20,7 @@ Wanna hire me? [Here's my resume.](https://stackoverflow.com/cv/jhill)
 * Email: [jonathon@compwright.com](mailto:jonathon@compwright.com)
 * Phone: [+1 864-245-5885](tel:+1 864-245-5885)
 
-<a href="https://time.is/Atlanta" id="time_is_link" rel="nofollow" style="font-size:36px">It is:</a> <span id="Atlanta_z161"></span> where I live (Eastern Time Zone).
+It is <span id="Atlanta_z161"></span> <a href="https://time.is/Atlanta" id="time_is_link" rel="nofollow">where I live</a> (Eastern Time Zone).
 
 <script src="//widget.time.is/t.js"></script>
 <script>
