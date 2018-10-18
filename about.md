@@ -23,9 +23,9 @@ There are hackers, and there are craftsman. I'm a craftsman--I build beautiful t
 * Email: [jonathon@compwright.com](mailto:jonathon@compwright.com)
 * Phone: [+1 864-245-5885](tel:+1 864-245-5885)
 
-It is <span id="Atlanta_z161"></span> <a href="https://time.is/Atlanta" id="time_is_link" rel="nofollow">in my time zone (EST)</a>.
+It is <span id="Atlanta_z161">00:00:00 PM</span> <a href="https://time.is/Atlanta" id="time_is_link" rel="nofollow">in my time zone (EST)</a>.
 
 <script src="//widget.time.is/t.js"></script>
 <script>
-time_is_widget.init({Atlanta_z161:{time_format:"12hours:minutes:secondsAMPM"}});
+time_is_widget.init({Atlanta_z161:{time_format:"12hours:minutes:seconds AMPM"}});
 </script>
