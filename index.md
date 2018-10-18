@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''
+title: Conscientious Craftsmanship for the Web
 permalink: /
 published: true
 ---
