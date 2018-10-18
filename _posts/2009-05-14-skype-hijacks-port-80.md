@@ -22,4 +22,4 @@ Aha! Another service is using port 80, preventing Apache from binding to that po
 
 However, a quick Google search revealed Skype as the culprit!
 
-[<img class="alignnone size-medium wp-image-130" title="skype" src="http://jonathonhill.net/wp-content/uploads/2009/05/skype-300x242.png" alt="skype" width="300" height="242" srcset="http://jonathonhill.net/wp-content/uploads/2009/05/skype-300x242.png 300w, http://jonathonhill.net/wp-content/uploads/2009/05/skype.png 706w" sizes="(max-width: 300px) 100vw, 300px" />](http://jonathonhill.net/wp-content/uploads/2009/05/skype.png)
+[<img class="alignnone size-medium wp-image-130" title="skype" src="/wp-content/uploads/2009/05/skype-300x242.png" alt="skype" width="300" height="242" srcset="/wp-content/uploads/2009/05/skype-300x242.png 300w, /wp-content/uploads/2009/05/skype.png 706w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2009/05/skype.png)

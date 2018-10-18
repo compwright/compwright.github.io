@@ -25,4 +25,4 @@ To close the Language bar (using Classic view in Control Panel):
 
 
   
-[<img class="alignnone" src="/wp-content/uploads/2009/07/nuke_the_language_bar.PNG" alt="" width="731" height="611" />](http://jonathonhill.net/wp-content/uploads/2009/07/nuke_the_language_bar.PNG)
+[<img class="alignnone" src="/wp-content/uploads/2009/07/nuke_the_language_bar.PNG" alt="" width="731" height="611" />](/wp-content/uploads/2009/07/nuke_the_language_bar.PNG)

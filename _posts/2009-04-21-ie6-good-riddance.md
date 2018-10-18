@@ -15,4 +15,4 @@ Ivan over at [SimpleBits](http://creativebits.org/webdev/finally_microsoft_putti
 
 I can&#8217;t wait!
 
-<img class="alignnone size-full wp-image-111" title="ie6dead" src="http://jonathonhill.net/wp-content/uploads/2009/04/ie6dead.jpg" alt="ie6dead" width="230" height="137" />
+<img class="alignnone size-full wp-image-111" title="ie6dead" src="/wp-content/uploads/2009/04/ie6dead.jpg" alt="ie6dead" width="230" height="137" />

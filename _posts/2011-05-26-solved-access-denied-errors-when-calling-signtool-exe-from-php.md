@@ -59,4 +59,4 @@ The maddeningly frustrating thing was that signtool worked great when called fro
 
 The issue turned out to be pretty stupid, as they usually do. I merely had to change the account that Apache was running as to that of a normal user, instead of the default local system account.
 
-[<img class="alignnone" src="/wp-content/uploads/2011/05/apache-service-user.png" alt="services.msc - changing the Apache user" width="100%" />](http://jonathonhill.net/wp-content/uploads/2011/05/apache-service-user.png)
+[<img class="alignnone" src="/wp-content/uploads/2011/05/apache-service-user.png" alt="services.msc - changing the Apache user" width="100%" />](/wp-content/uploads/2011/05/apache-service-user.png)

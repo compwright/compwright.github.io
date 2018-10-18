@@ -25,7 +25,7 @@ So, most of the time all you have to do is tell the package manager &#8220;you k
 
 `$ sudo dpkg -i --force-all AdobeReader_enu-8.1.3-1.i386.deb`
 
-[<img class="alignnone size-large wp-image-19" title="screenshot-adobereader1" src="http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-adobereader1-1024x640.png" alt="screenshot-adobereader1" width="100%" srcset="http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-adobereader1-1024x640.png 1024w, http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-adobereader1-300x187.png 300w, http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-adobereader1.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-adobereader1.png)
+[<img class="alignnone size-large wp-image-19" title="screenshot-adobereader1" src="/wp-content/uploads/2008/12/screenshot-adobereader1-1024x640.png" alt="screenshot-adobereader1" width="100%" srcset="/wp-content/uploads/2008/12/screenshot-adobereader1-1024x640.png 1024w, /wp-content/uploads/2008/12/screenshot-adobereader1-300x187.png 300w, /wp-content/uploads/2008/12/screenshot-adobereader1.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />](/wp-content/uploads/2008/12/screenshot-adobereader1.png)
 
 Which is how I got Adobe Reader working. Now for Amazon&#8217;s MP3 downloader. The purpose of the downloader is to make it easy and convenient to download whole albums at once, file it, and allow you to pause/resume downloading if needed.
 
@@ -44,6 +44,6 @@ Well, amazonmp3 is 32-bit and the libboost libraries I installed were all 64-bit
 
 It downloaded a **bunch** of 32-bit packages and now amazonmp3 works like a charm.
 
-[<img class="alignnone size-large wp-image-23" title="screenshot-amazonmp3" src="http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-amazonmp3-1024x640.png" alt="screenshot-amazonmp3" width="100%" srcset="http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-amazonmp3-1024x640.png 1024w, http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-amazonmp3-300x187.png 300w, http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-amazonmp3.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />](http://jonathonhill.net/wp-content/uploads/2008/12/screenshot-amazonmp3.png)
+[<img class="alignnone size-large wp-image-23" title="screenshot-amazonmp3" src="/wp-content/uploads/2008/12/screenshot-amazonmp3-1024x640.png" alt="screenshot-amazonmp3" width="100%" srcset="/wp-content/uploads/2008/12/screenshot-amazonmp3-1024x640.png 1024w, /wp-content/uploads/2008/12/screenshot-amazonmp3-300x187.png 300w, /wp-content/uploads/2008/12/screenshot-amazonmp3.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" />](/wp-content/uploads/2008/12/screenshot-amazonmp3.png)
 
 Kudos to Amazon for their DRM-free MP3s and for making a cross-platform downloader that makes using their service easy!
