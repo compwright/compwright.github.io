@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conscientious Craftsmanship for the Web
+title: Let's Make a Thing
 permalink: /
 published: true
 ---
