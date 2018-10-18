@@ -1,0 +1,73 @@
+<html>
+<head>
+  <style type="text/css">
+    
+    body { 
+      font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; 
+      max-width:960px;
+      margin:auto;
+    }
+    
+    section {
+      height:120px;
+      color:#fff;
+      background:#000;
+      margin-bottom:10px;
+      padding:20px;
+    }
+      section h1 { margin:0; }
+    
+    
+    .bg1 { background:url(background.png); }
+    
+    .bg2 {
+      background-color: rgba(128,128,128,.05);
+      background-image: url(background.png);
+      background-image: -webkit-gradient(radial, center top, 0, center top, 545, from(rgba(255,255,255,.25)), to(rgba(128,128,128,.05))), url(background.png);
+      background-image: -webkit-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25), rgba(128,128,128,.1)), url(background.png);
+      background-image: -moz-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 60%), url(background.png);
+      background-image: -ms-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25), rgba(128,128,128,.1)), url(background.png);
+      background-image: -o-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25), rgba(128,128,128,.1)), url(background.png);
+      background-image: radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25), rgba(128,128,128,.1)), url(background.png);
+      background-position: center center, top left;
+      background-repeat: no-repeat, repeat;
+    }
+    
+    .bg3 { background:url(photoshop-gradient-overlay.png); }
+    
+    .bg4 {
+      background-color: rgba(128,128,128,.05);
+      background-image: url(background.png);
+      background-image: url(foreground.png), -webkit-gradient(radial, center top, 0, center top, 490, color-stop(0, rgba(255,255,255,.25)), color-stop(0.8, rgba(0,0,0,.1))), url(background.png);
+      background-image: url(foreground.png), -webkit-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 80%), url(background.png);
+      background-image: url(foreground.png), -moz-radial-gradient(center top , circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 60%), url(background.png);
+      background-image: url(foreground.png), -ms-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 80%), url(background.png);
+      background-image: url(foreground.png), -o-radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 80%), url(background.png);
+      background-image: url(foreground.png), radial-gradient(center top, circle closest-corner, rgba(255,255,255,.25) 0%, rgba(0,0,0,.1) 80%), url(background.png);
+      background-position: top left, center center, top left;
+      background-repeat: repeat, no-repeat, repeat;
+    }
+    
+  </style>
+</head>
+<body>
+  <article>
+    <h1>CSS3 Photoshop Blend Mode Demo</h1>
+    <section class="bg1">
+      <h1>Original Background</h1>
+      <p><small>4x4 tiled PNG (152 bytes)</small></p>
+    </section>
+    <section class="bg2">
+      <h1>Gradient Overlay via CSS</h1>
+    </section>
+    <section class="bg3">
+      <h1>Gradient Overlay via Photoshop (blend mode: <code>overlay</code>)</h1>
+      <p><small>960x200 monolithic PNG (30 kilobytes)</small></p>
+    </section>
+    <section class="bg4">
+      <h1>Simulated Photoshop Gradient Overlay via CSS</h1>
+      <p><small>4x4 tiled background PNG (152 bytes)</small><br /><small>4x4 tiled foreground PNG (161 bytes)</small></p>
+    </section>
+  </article>
+</body>
+</html>
