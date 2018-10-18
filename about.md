@@ -10,6 +10,11 @@ There are hackers, and there are craftsman. I'm a craftsman--I build beautiful t
 
 ### Hire me
 
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<!-- Calendly link widget end -->
+
 * [Resume](https://stackoverflow.com/cv/jhill)
 * <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/compwright/30min');return false;">Request a meeting</a>
 
