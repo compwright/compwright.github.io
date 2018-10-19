@@ -13,6 +13,19 @@ description: Hello, I'm Jonathon Hill. I build things for the web.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://secure.gravatar.com/avatar/0954b07694d217460222ae1dc5fa9c40?size=200
 
+collections:
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "default"
+      title: Projects
+      permalink: /:collection/:title
+
 #
 # Flags below are optional
 #
