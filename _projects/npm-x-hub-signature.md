@@ -1,5 +1,5 @@
 ---
-title: Npm X Hub Signature
+title: 'NPM: x-hub-signature'
 date: 2018-10-21 08:46:00 -04:00
 test: foo
 layout: post
