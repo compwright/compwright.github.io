@@ -50,6 +50,7 @@ sass:
 gems:
 - jekyll-sitemap
 - jekyll-feed
+- jekyll-paginate
 exclude:
 - Gemfile
 - Gemfile.lock
