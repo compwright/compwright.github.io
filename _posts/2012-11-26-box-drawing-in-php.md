@@ -1,20 +1,21 @@
 ---
-id: 364
 title: Box drawing in PHP
-date: 2012-11-26T16:20:08+00:00
+date: 2012-11-26 11:20:08 -05:00
+permalink: "/2012-11-26/box-drawing-in-php/"
+categories:
+- Notebook
+tags:
+- ANSI
+- ASCII
+- CLI
+- PHP
+- UTF-8
+id: 364
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=364
-permalink: /2012-11-26/box-drawing-in-php/
-categories:
-  - Notebook
-tags:
-  - ANSI
-  - ASCII
-  - CLI
-  - PHP
-  - UTF-8
 ---
+
  <img class="alignright" title="Code Page 437" src="http://upload.wikimedia.org/wikipedia/commons/f/f8/Codepage-437.png" alt="" width="304" height="144" />Back in the &#8220;good old days&#8221; of MS-DOS, you could draw lines, boxes, filled areas (think progress bars), and more using the extended ASCII character set (AKA <a href="http://en.wikipedia.org/wiki/Code_page_437" target="_blank">code page 437</a>).
 
 While writing a simple command-line utility in PHP I wanted to use the full block (`█`) and light shade (`░`) characters to create a simple progress bar that is a bit nicer than the typical `=========...................`.

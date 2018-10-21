@@ -1,17 +1,19 @@
 ---
+title: Javascript reserved words trigger &#8220;Expected Identifier&#8221; error on
+  IE
+date: 2009-11-24 02:47:27 -05:00
+permalink: "/2009-11-24/javascript-reserved-words-trigger-expected-identifier-error-on-ie/"
+categories:
+- Notebook
+tags:
+- IE
+- Javascript
 id: 207
-title: 'Javascript reserved words trigger &#8220;Expected Identifier&#8221; error on IE'
-date: 2009-11-24T07:47:27+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=207
-permalink: /2009-11-24/javascript-reserved-words-trigger-expected-identifier-error-on-ie/
-categories:
-  - Notebook
-tags:
-  - IE
-  - Javascript
 ---
+
 If you&#8217;re getting an unreasonable &#8220;Expected Identifier&#8221; Javascript error on IE6/7, check to see if you have any variable names which are reserved words.
 
 This also goes for HTML form element names:

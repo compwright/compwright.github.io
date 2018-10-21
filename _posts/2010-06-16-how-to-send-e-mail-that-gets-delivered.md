@@ -1,22 +1,23 @@
 ---
+title: How to send e-mail&#8230;that gets delivered
+date: 2010-06-16 12:47:01 -04:00
+permalink: "/2010-06-16/how-to-send-e-mail-that-gets-delivered/"
+categories:
+- Notebook
+tags:
+- dkim
+- dns
+- E-Mail
+- email
+- Jeff Atwood
+- ptr
+- spam
 id: 236
-title: 'How to send e-mail&#8230;that gets delivered'
-date: 2010-06-16T16:47:01+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=236
-permalink: /2010-06-16/how-to-send-e-mail-that-gets-delivered/
-categories:
-  - Notebook
-tags:
-  - dkim
-  - dns
-  - E-Mail
-  - email
-  - Jeff Atwood
-  - ptr
-  - spam
 ---
+
 I just got a really good education on how to make sure your (legit) email will navigate common spam blockers and be delivered successfully, <a title="So You'd Like to Send Some Email (Through Code)" href="http://www.codinghorror.com/blog/2010/04/so-youd-like-to-send-some-email-through-code.html" target="_blank">thanks to Jeff Atwood</a>.
 
 ## Summary

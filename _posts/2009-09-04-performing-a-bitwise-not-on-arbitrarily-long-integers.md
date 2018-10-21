@@ -1,19 +1,20 @@
 ---
-id: 191
 title: Performing a bitwise NOT on arbitrarily long integers
-date: 2009-09-04T13:34:00+00:00
+date: 2009-09-04 09:34:00 -04:00
+permalink: "/2009-09-04/performing-a-bitwise-not-on-arbitrarily-long-integers/"
+categories:
+- Notebook
+tags:
+- 64-bit
+- Boolean Logic
+- GMP
+- PHP
+id: 191
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=191
-permalink: /2009-09-04/performing-a-bitwise-not-on-arbitrarily-long-integers/
-categories:
-  - Notebook
-tags:
-  - 64-bit
-  - Boolean Logic
-  - GMP
-  - PHP
 ---
+
 Here&#8217;s the surprisingly simple solution to a fairly challenging problem. I do not understand why PHPs GMP extension does not include a gmp_not() function.
 
     function gmp_not($n) {

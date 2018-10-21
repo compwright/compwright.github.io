@@ -1,19 +1,20 @@
 ---
-id: 15
 title: Installing 32-bit programs on 64-bit Ubuntu linux
-date: 2008-12-26T11:08:22+00:00
+date: 2008-12-26 06:08:22 -05:00
+permalink: "/2008-12-26/installing-32-bit-programs-on-64-bit-ubuntu-linux/"
+categories:
+- Notebook
+tags:
+- 32-bit
+- 64-bit
+- Linux
+- Ubuntu
+id: 15
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=15
-permalink: /2008-12-26/installing-32-bit-programs-on-64-bit-ubuntu-linux/
-categories:
-  - Notebook
-tags:
-  - 32-bit
-  - 64-bit
-  - Linux
-  - Ubuntu
 ---
+
 So far so good on my experimental switch to Ubuntu Linux from Windows XP.
 
 I&#8217;m running 64-bit linux because my laptop&#8217;s Intel CPU supports it. However, many but not all programs available for linux are available in 64-bit versions. Last few days I&#8217;ve needed to install a few programs that don&#8217;t have 64-bit versions available, namely, Adobe Reader 8 and Amazon&#8217;s MP3 downloader. Here&#8217;s what I have learned:

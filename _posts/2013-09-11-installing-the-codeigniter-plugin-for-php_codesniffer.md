@@ -1,23 +1,24 @@
 ---
-id: 430
 title: Installing the CodeIgniter plugin for PHP_CodeSniffer
-date: 2013-09-11T06:49:13+00:00
+date: 2013-09-11 02:49:13 -04:00
+permalink: "/2013-09-11/installing-the-codeigniter-plugin-for-php_codesniffer/"
+categories:
+- Notebook
+tags:
+- homebrew
+- IDE
+- PEAR
+- php54
+- phpcs
+- PHP_CodeSniffer
+- Static Analysis
+- Sublime
+id: 430
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=430
-permalink: /2013-09-11/installing-the-codeigniter-plugin-for-php_codesniffer/
-categories:
-  - Notebook
-tags:
-  - homebrew
-  - IDE
-  - PEAR
-  - php54
-  - phpcs
-  - PHP_CodeSniffer
-  - Static Analysis
-  - Sublime
 ---
+
 Since reading Phil Sturgeon&#8217;s post on <a href="http://philsturgeon.co.uk/blog/2013/08/php-static-analysis-in-sublime-text" target="_blank">PHP Static Analysis in the Sublime text editor</a>, I have been experimenting with using <a href="http://pear.php.net/package/PHP_CodeSniffer/" target="_blank">phpcs</a> and <a href="http://www.sublimetext.com/" target="_blank">Sublime</a> in general. Since I am currently used to the <a href="http://ellislab.com/codeigniter/user-guide/general/styleguide.html" target="_blank">CodeIgniter coding standard</a>, the time finally came today to try and configure my setup for that standard instead of <a href="https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md" target="_blank">PSR-2</a>.
 
 _(A downgrade? Perhaps, but it&#8217;s what we use at work and it fits better into my workflow at the moment. Besides, the PSR-2 bracket rules annoy me to no end.)_

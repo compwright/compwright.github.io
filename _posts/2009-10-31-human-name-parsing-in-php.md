@@ -1,19 +1,20 @@
 ---
-id: 193
 title: Human Name Parsing in PHP
-date: 2009-10-31T18:25:27+00:00
+date: 2009-10-31 14:25:27 -04:00
+permalink: "/2009-10-31/human-name-parsing-in-php/"
+categories:
+- Notebook
+tags:
+- Human Names
+- nameparse
+- Parsing
+- PHP
+id: 193
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=193
-permalink: /2009-10-31/human-name-parsing-in-php/
-categories:
-  - Notebook
-tags:
-  - Human Names
-  - nameparse
-  - Parsing
-  - PHP
 ---
+
 Parsing human names are not exactly easy, but they can be done. Keith Beckman&#8217;s [`nameparse.php`](http://alphahelical.com/code/misc/nameparse/) is an excellent PHP library for doing this.
 
 [**Download nameparse.php**](http://alphahelical.com/code/misc/nameparse/nameparse.php.txt)

@@ -1,21 +1,23 @@
 ---
+title: 'Solved: &#8220;Access Denied&#8221; errors when calling signtool.exe from
+  PHP'
+date: 2011-05-26 11:51:12 -04:00
+permalink: "/2011-05-26/solved-access-denied-errors-when-calling-signtool-exe-from-php/"
+categories:
+- Notebook
+tags:
+- Apache
+- code signing
+- permissions
+- PHP
+- signtool.exe
+- WAMP
 id: 277
-title: 'Solved: &#8220;Access Denied&#8221; errors when calling signtool.exe from PHP'
-date: 2011-05-26T15:51:12+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=277
-permalink: /2011-05-26/solved-access-denied-errors-when-calling-signtool-exe-from-php/
-categories:
-  - Notebook
-tags:
-  - Apache
-  - code signing
-  - permissions
-  - PHP
-  - signtool.exe
-  - WAMP
 ---
+
 ## SIGHntool, why must you give me such grief?
 
 I have spent the last 8 hours trying to figure out why Microsoft&#8217;s `signtool.exe` code signing utility refuses to work when called from PHP&#8217;s system() or shell_exec() functions on my WAMP server:

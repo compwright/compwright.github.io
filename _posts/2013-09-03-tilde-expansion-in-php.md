@@ -1,20 +1,21 @@
 ---
-id: 420
 title: Tilde expansion in PHP
-date: 2013-09-03T10:00:38+00:00
+date: 2013-09-03 06:00:38 -04:00
+permalink: "/2013-09-03/tilde-expansion-in-php/"
+categories:
+- Notebook
+tags:
+- CLI
+- PHP
+- POSIX
+- tilde
+- UNIX
+id: 420
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=420
-permalink: /2013-09-03/tilde-expansion-in-php/
-categories:
-  - Notebook
-tags:
-  - CLI
-  - PHP
-  - POSIX
-  - tilde
-  - UNIX
 ---
+
 If you have ever written a PHP command line script and tried to pass a file to it using the POSIX tilde (`~`) shortcut to reference your home directory, you may have been surprised to learn that the operating system does not automatically expand tildes in paths.
 
 You&#8217;ll get an error like this:

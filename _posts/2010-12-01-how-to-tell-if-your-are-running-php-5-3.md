@@ -1,18 +1,19 @@
 ---
-id: 240
 title: Three ways to tell if your are running PHP 5.3
-date: 2010-12-01T11:28:35+00:00
+date: 2010-12-01 06:28:35 -05:00
+permalink: "/2010-12-01/how-to-tell-if-your-are-running-php-5-3/"
+categories:
+- Notebook
+tags:
+- PHP
+- PHP 5.3
+- PHP_VERSION
+id: 240
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=240
-permalink: /2010-12-01/how-to-tell-if-your-are-running-php-5-3/
-categories:
-  - Notebook
-tags:
-  - PHP
-  - PHP 5.3
-  - PHP_VERSION
 ---
+
 ## A quick-n-dirty way
 
 If all you want to do is see if you are running PHP 5.3+, then just check for the existence of the <a href="http://php.net/array_replace" target="_blank"><code>array_replace()</code></a> function, which was added in PHP 5.3:

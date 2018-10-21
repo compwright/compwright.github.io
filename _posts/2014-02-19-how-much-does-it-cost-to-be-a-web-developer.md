@@ -1,18 +1,19 @@
 ---
-id: 439
 title: How much does it cost to be a web developer?
-date: 2014-02-19T16:31:03+00:00
+date: 2014-02-19 11:31:03 -05:00
+permalink: "/2014-02-19/how-much-does-it-cost-to-be-a-web-developer/"
+categories:
+- Notebook
+tags:
+- careers
+- college
+- industry
+id: 439
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=439
-permalink: /2014-02-19/how-much-does-it-cost-to-be-a-web-developer/
-categories:
-  - Notebook
-tags:
-  - careers
-  - college
-  - industry
 ---
+
 With Software Development <a href="http://money.usnews.com/careers/best-jobs/software-developer" target="_blank">topping 2014&#8217;s top jobs list</a>, I thought I would share how much it cost me to become a web developer, and what my monthly expenses look like nowadays.<!--more-->
 
 ## Start-Up Costs

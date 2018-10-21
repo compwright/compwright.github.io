@@ -1,16 +1,17 @@
 ---
-id: 395
 title: 'Scaling Your Website: Three Stages'
-date: 2012-12-16T21:55:26+00:00
+date: 2012-12-16 16:55:26 -05:00
+permalink: "/2012-12-16/scaling-your-website-three-stages/"
+categories:
+- Notebook
+tags:
+- Scaling
+id: 395
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=395
-permalink: /2012-12-16/scaling-your-website-three-stages/
-categories:
-  - Notebook
-tags:
-  - Scaling
 ---
+
 <span style="line-height: 1.714285714; font-size: 1rem;">So, you have A Big Idea that will Revolutionize The World. Naturally, people will flock to your site and engage with it. Naturally, you are concerned about whether your infrastructure can handle success. You wish to plan for success, it would be foolish not to, eh? </span><span style="line-height: 1.714285714; font-size: 1rem;">Don&#8217;t let enthusiasm (or ignorance) lead you to premature over-optimization. After all, your Big Idea has not yet passed the test of time.</span>
 
 Here I will describe the three early stages commonly encountered when scaling a new website or startup application. Each one builds off the previous ones, starting with the lowest-hanging fruit and working up.<!--more-->

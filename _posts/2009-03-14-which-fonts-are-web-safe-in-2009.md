@@ -1,17 +1,18 @@
 ---
-id: 87
 title: Which Fonts Are Web-safe in 2009?
-date: 2009-03-14T20:08:16+00:00
+date: 2009-03-14 16:08:16 -04:00
+permalink: "/2009-03-14/which-fonts-are-web-safe-in-2009/"
+categories:
+- Notebook
+tags:
+- Design
+- Fonts
+id: 87
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=87
-permalink: /2009-03-14/which-fonts-are-web-safe-in-2009/
-categories:
-  - Notebook
-tags:
-  - Design
-  - Fonts
 ---
+
 _Below is an excerpt from <a href="http://www.sitepoint.com/newsletter/viewissue.php?id=5&issue=56" target="_blank">Issue 56 of the Sitepoint Design View</a> newsletter that I found very interesting and useful. Perhaps you will too._
 
 * * *

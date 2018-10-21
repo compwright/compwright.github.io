@@ -1,18 +1,19 @@
 ---
-id: 234
 title: Avoid the void(0) in IE6
-date: 2010-04-07T11:10:40+00:00
+date: 2010-04-07 07:10:40 -04:00
+permalink: "/2010-04-07/avoid-the-void0-in-ie6/"
+categories:
+- Notebook
+tags:
+- IE6
+- Javascript
+- void
+id: 234
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=234
-permalink: /2010-04-07/avoid-the-void0-in-ie6/
-categories:
-  - Notebook
-tags:
-  - IE6
-  - Javascript
-  - void
 ---
+
 I recently learned the hard way that `<a href="javascript:void(0)">` doesn&#8217;t work as expected in IE6. The solution is to use the familiar `#` but make sure your `onclick` event returns **`false`**:
 
 `<a href="#" onclick="aFunction();return false;">Link</a>`

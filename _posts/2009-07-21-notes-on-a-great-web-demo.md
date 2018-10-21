@@ -1,17 +1,18 @@
 ---
-id: 152
 title: Notes on a great web demo
-date: 2009-07-21T04:21:45+00:00
+date: 2009-07-21 00:21:45 -04:00
+permalink: "/2009-07-21/notes-on-a-great-web-demo/"
+categories:
+- Notebook
+tags:
+- Sales
+- Webinars
+id: 152
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=152
-permalink: /2009-07-21/notes-on-a-great-web-demo/
-categories:
-  - Notebook
-tags:
-  - Sales
-  - Webinars
 ---
+
 I recently sat in on a live demonstration of a piece of software my former employer was evaluating. Here are some notes on what makes a great webinar or web demo.
 
   1. **Be courteous to all**. Call folks by name, be patient, cordial, and friendly.

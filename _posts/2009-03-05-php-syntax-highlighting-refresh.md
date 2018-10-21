@@ -1,14 +1,15 @@
 ---
-id: 81
 title: PHP Syntax Highlighting Refresh
-date: 2009-03-05T08:56:53+00:00
+date: 2009-03-05 03:56:53 -05:00
+permalink: "/2009-03-05/php-syntax-highlighting-refresh/"
+categories:
+- Notebook
+id: 81
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=81
-permalink: /2009-03-05/php-syntax-highlighting-refresh/
-categories:
-  - Notebook
 ---
+
 When you spend your days staring at PHP code, you really can appreciate a visual refresh now and then. Syntax highlighting, if done well, makes reading code much easier. Excellent color schemes are not only functional, but are visually appealing as well.
 
 Personally, I think Eclipse PDT&#8217;s PHP syntax highlighting is quite boring. I have tried several custom color schemes, but here is one I particularly like.

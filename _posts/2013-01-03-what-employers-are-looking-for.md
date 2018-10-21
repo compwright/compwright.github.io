@@ -1,18 +1,19 @@
 ---
-id: 401
 title: What Employers are Looking For
-date: 2013-01-03T17:40:37+00:00
+date: 2013-01-03 12:40:37 -05:00
+permalink: "/2013-01-03/what-employers-are-looking-for/"
+categories:
+- Notebook
+tags:
+- Hiring
+- IT
+- Recruiting
+id: 401
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=401
-permalink: /2013-01-03/what-employers-are-looking-for/
-categories:
-  - Notebook
-tags:
-  - Hiring
-  - IT
-  - Recruiting
 ---
+
 Employers looking for high-quality software developers are plentiful. At the January meeting of the Atlanta PHP user group Ari Waller shared some useful notes on what employers are looking for in 2013 (universally, not just in Atlanta).<!--more-->
 
 ## Genuine software engineers

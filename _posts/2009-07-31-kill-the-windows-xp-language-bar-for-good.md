@@ -1,17 +1,18 @@
 ---
-id: 177
 title: Kill the Windows XP Language Bar for good!
-date: 2009-07-31T04:28:32+00:00
+date: 2009-07-31 00:28:32 -04:00
+permalink: "/2009-07-31/kill-the-windows-xp-language-bar-for-good/"
+categories:
+- Notebook
+tags:
+- Annoyances
+- Windows XP
+id: 177
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=177
-permalink: /2009-07-31/kill-the-windows-xp-language-bar-for-good/
-categories:
-  - Notebook
-tags:
-  - Annoyances
-  - Windows XP
 ---
+
 The single biggest annoyance of Windows XP (for me, at least) is the **language bar**. Seems like every time I reboot it&#8217;s back. Here&#8217;s [how to fix it](http://support.microsoft.com/default.aspx?scid=kb;en-us;306993&sd=tech):
 
 To close the Language bar (using Classic view in Control Panel):

@@ -1,20 +1,21 @@
 ---
-id: 172
 title: MySQL Style Guide
-date: 2009-07-29T19:16:29+00:00
+date: 2009-07-29 15:16:29 -04:00
+permalink: "/2009-07-29/mysql-style-guide/"
+categories:
+- Notebook
+tags:
+- Conventions
+- MySQL
+- Readability
+- SQL
+- Style
+id: 172
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=172
-permalink: /2009-07-29/mysql-style-guide/
-categories:
-  - Notebook
-tags:
-  - Conventions
-  - MySQL
-  - Readability
-  - SQL
-  - Style
 ---
+
 I&#8217;m a big believer in readability, and I love to write code that is easy to understand. Check out my newly-posted [MySQL Style Guide](/coding-for-readability/mysql-style-guide/) which covers:
 
   * Simple queries

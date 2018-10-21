@@ -1,20 +1,21 @@
 ---
+title: Cross-browser text wrapping in <pre> tags
+date: 2009-04-27 03:50:43 -04:00
+permalink: "/2009-04-27/cross-browser-text-wrapping-in-tags/"
+categories:
+- Notebook
+tags:
+- "&lt;pre&gt;"
+- CSS
+- CSS3
+- IE7
+- Text wrapping
 id: 117
-title: 'Cross-browser text wrapping in <pre> tags'
-date: 2009-04-27T07:50:43+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=117
-permalink: /2009-04-27/cross-browser-text-wrapping-in-tags/
-categories:
-  - Notebook
-tags:
-  - '&lt;pre&gt;'
-  - CSS
-  - CSS3
-  - IE7
-  - Text wrapping
 ---
+
 Until CSS3 is widely supported, if you want to wrap text inside a <pre> tag you can do it this way:
 
 <pre>pre {

@@ -1,19 +1,20 @@
 ---
-id: 12
 title: Adventures in Ubuntuland
-date: 2008-12-22T11:37:17+00:00
+date: 2008-12-22 06:37:17 -05:00
+permalink: "/2008-12-22/adventures-in-ubuntuland/"
+categories:
+- Notebook
+tags:
+- Eclipse
+- Linux
+- Opera
+- Ubuntu
+id: 12
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=12
-permalink: /2008-12-22/adventures-in-ubuntuland/
-categories:
-  - Notebook
-tags:
-  - Eclipse
-  - Linux
-  - Opera
-  - Ubuntu
 ---
+
 My two-year-old HP laptop is getting slower and slower. Time for an XP re-install, but that&#8217;s a big ordeal. I opted to give Linux another try (maybe the third time will be the charm).
 
 I installed and configured Eclipse, but it was running super-slow. A quick Google search [revealed a simple trick](http://blog.thadeusb.com/2008/10/20/eclipse-is-slow-laggy-on-linux/):

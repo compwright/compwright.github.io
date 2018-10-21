@@ -1,19 +1,20 @@
 ---
-id: 331
 title: Unshorten URLs with PHP and cURL
-date: 2012-05-18T16:12:01+00:00
+date: 2012-05-18 12:12:01 -04:00
+permalink: "/2012-05-18/unshorten-urls-with-php-and-curl/"
+categories:
+- Notebook
+tags:
+- bitly
+- CURL
+- PhantomJS
+- PHP
+id: 331
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=331
-permalink: /2012-05-18/unshorten-urls-with-php-and-curl/
-categories:
-  - Notebook
-tags:
-  - bitly
-  - CURL
-  - PhantomJS
-  - PHP
 ---
+
 While working on a site that provides previews of URLs embedded in tweets using the awesome <a href="http://phantomjs.org/" target="_blank">PhantomJS</a> scriptable WebKit browser, and encountered difficulties when an URL shortener such as <a href="http://bit.ly" target="_blank">Bit.ly</a> was used (as is almost always done when tweeting out a link to an interesting article or photo).
 
 After a little experimenting, I discovered that cURL makes it super easy to un-shorten a URL that has been shortened, without depending on a <a href="http://www.unshorten.com/" target="_blank">third</a>&#8211;<a href="http://unshort.me/" target="_blank">party</a> <a href="http://unshorten.it/" target="_blank">service</a>.

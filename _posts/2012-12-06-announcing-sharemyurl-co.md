@@ -1,20 +1,21 @@
 ---
-id: 388
 title: Announcing ShareMyUrl.co
-date: 2012-12-06T09:34:03+00:00
+date: 2012-12-06 04:34:03 -05:00
+permalink: "/2012-12-06/announcing-sharemyurl-co/"
+categories:
+- Notebook
+tags:
+- Facebook
+- Pinterest
+- Projects
+- Share
+- Twitter
+id: 388
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=388
-permalink: /2012-12-06/announcing-sharemyurl-co/
-categories:
-  - Notebook
-tags:
-  - Facebook
-  - Pinterest
-  - Projects
-  - Share
-  - Twitter
 ---
+
 > Any task that needs to be done more than once is worth automating.
   
 > <cite><a href="http://twitter.com/grmpyprogrammer" target="_blank">The Grumpy Programmer</a></cite>

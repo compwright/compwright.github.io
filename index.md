@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Let's Make a Thing
-permalink: /
-published: true
+permalink: "/"
+layout: page
 ---
+
 _Comp(uter) + Wright (a maker, or builder--a craftsman)_
 
 There are hackers, and there are craftsman. I'm a craftsman--I build beautiful things for the web.

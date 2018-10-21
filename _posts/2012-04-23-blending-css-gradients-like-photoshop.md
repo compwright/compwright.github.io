@@ -1,19 +1,20 @@
 ---
-id: 325
 title: Blending CSS Gradients Like Photoshop
-date: 2012-04-23T13:26:09+00:00
+date: 2012-04-23 09:26:09 -04:00
+permalink: "/2012-04-23/blending-css-gradients-like-photoshop/"
+categories:
+- Notebook
+tags:
+- CSS
+- CSS3
+- Gradient
+- Photoshop
+id: 325
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=325
-permalink: /2012-04-23/blending-css-gradients-like-photoshop/
-categories:
-  - Notebook
-tags:
-  - CSS
-  - CSS3
-  - Gradient
-  - Photoshop
 ---
+
 While on my day job over at <a href="http://company52.com" target="_blank">Company 52</a>, I encountered a textured background with a gradient overlay, using Photoshop&#8217;s **overlay** blending mode. I&#8217;m sure you&#8217;ve seen this effect before:
 
 <div style="height: 100px; background: url('/wp-content/uploads/2012/css-gradient-blending-demo/photoshop-gradient-overlay.png') top center no-repeat;">

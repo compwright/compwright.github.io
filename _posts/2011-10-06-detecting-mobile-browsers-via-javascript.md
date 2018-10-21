@@ -1,18 +1,19 @@
 ---
-id: 308
 title: Detecting mobile browsers via Javascript
-date: 2011-10-06T08:58:47+00:00
+date: 2011-10-06 04:58:47 -04:00
+permalink: "/2011-10-06/detecting-mobile-browsers-via-javascript/"
+categories:
+- Notebook
+tags:
+- browser
+- Javascript
+- mobile
+id: 308
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=308
-permalink: /2011-10-06/detecting-mobile-browsers-via-javascript/
-categories:
-  - Notebook
-tags:
-  - browser
-  - Javascript
-  - mobile
 ---
+
 Sometimes you want to do some sort of special processing in Javascript on mobile browsers, or vice versa. Here&#8217;s a quickie Javascript way to do that:
 
     function is_mobile() {

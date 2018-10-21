@@ -1,19 +1,20 @@
 ---
-id: 433
 title: 'Video: Estimation Protips'
-date: 2013-09-23T09:37:55+00:00
+date: 2013-09-23 05:37:55 -04:00
+permalink: "/2013-09-23/video-estimation-protips/"
+categories:
+- Notebook
+tags:
+- Atlanta PHP
+- Estimation
+- Presentations
+- Video
+id: 433
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=433
-permalink: /2013-09-23/video-estimation-protips/
-categories:
-  - Notebook
-tags:
-  - Atlanta PHP
-  - Estimation
-  - Presentations
-  - Video
 ---
+
 Video from my Estimation Protips talk to the Atlanta PHP User Group in September. [Slides and links here](http://jonathonhill.net/2013-09-06/presentation-estimation-protips/).
 
 

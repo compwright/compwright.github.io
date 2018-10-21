@@ -1,17 +1,18 @@
 ---
-id: 272
 title: A plugged-in-and-giving-back mentality
-date: 2011-04-28T04:18:52+00:00
+date: 2011-04-28 00:18:52 -04:00
+permalink: "/2011-04-28/a-plugged-in-and-giving-back-mentality/"
+categories:
+- Notebook
+tags:
+- community
+- open source
+id: 272
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=272
-permalink: /2011-04-28/a-plugged-in-and-giving-back-mentality/
-categories:
-  - Notebook
-tags:
-  - community
-  - open source
 ---
+
 While working on the Chrome version of a browser extension for a client of <a title="Company52" href="http://company52.com" target="_blank">my company</a>, I subscribed to the <a href="http://groups.google.com/group/chromium-extensions" target="_blank">chromium-extensions Google group</a>. I did this both for my own edification as well as for others&#8217; benefit.
 
 Every now and then, a message comes through that relates to my personal experience or knowledge which has not yet been answered, and I will answer it.

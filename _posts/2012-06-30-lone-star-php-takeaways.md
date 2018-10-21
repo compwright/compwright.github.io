@@ -1,26 +1,27 @@
 ---
-id: 343
 title: Lone Star PHP takeaways
-date: 2012-06-30T17:19:32+00:00
+date: 2012-06-30 13:19:32 -04:00
+permalink: "/2012-06-30/lone-star-php-takeaways/"
+categories:
+- Notebook
+tags:
+- GD
+- ImageMagick
+- IMagick
+- LoneStarPHP
+- OOP
+- PECL
+- Performance
+- PHP
+- phpunit
+- Refactoring
+- SOLID
+id: 343
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=343
-permalink: /2012-06-30/lone-star-php-takeaways/
-categories:
-  - Notebook
-tags:
-  - GD
-  - ImageMagick
-  - IMagick
-  - LoneStarPHP
-  - OOP
-  - PECL
-  - Performance
-  - PHP
-  - phpunit
-  - Refactoring
-  - SOLID
 ---
+
 Thanks to the guys at <a href="http://www.engineyard.com/" target="_blank">Engine Yard</a>, I won a free pass to the <a href="http://lonestarphp.com" target="_blank">Lone Star PHP</a> <a href="http://eventifier.co/event/lsp12" target="_blank">community conference</a> in Dallas, TX this year. Due to the choice of subject matter and presenters, I think I enjoyed this conference even more than [last year&#8217;s PHPCon](http://jonathonhill.net/2011-04-21/phpcon-day-1/) in Nashville. Here are some of the highlights.
 
 ## Day 1

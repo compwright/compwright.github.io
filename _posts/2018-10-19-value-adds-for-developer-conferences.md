@@ -1,15 +1,18 @@
 ---
 title: Value Adds For Developer Conferences
-author: Jonathon
-excerpt: |
-  Ideas on how to make the best developer conference ever
-layout: post
+date: 2018-10-19 00:00:00 -04:00
 categories:
-  - Notebook
+- Notebook
 tags:
-  - Connect.tech
-  - Conferences
+- Connect.tech
+- Conferences
+author: Jonathon
+excerpt: 'Ideas on how to make the best developer conference ever
+
+'
+layout: post
 ---
+
 [Connect.tech](http://connect.tech) (formerly ConnectJS) is an excellent regional annual conference for web developers in Atlanta, GA. I've attended pretty much every year since the beginning, and it is the only conf I've been to for some time. So believe me, I'm not knocking the hard work the organizers put into this conference every year. They've done their job so well that it has left me wanting more, so I thought I'd share a few ideas openly in hopes that it will help make Connect.tech or another conference even better. We're developers, so we're all about feedback and incremental improvements, right?
 
 ## Missed tracks

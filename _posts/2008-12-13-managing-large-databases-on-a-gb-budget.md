@@ -1,23 +1,24 @@
 ---
-id: 1
 title: Managing large MySQL databases on a GB budget
-date: 2008-12-13T16:17:46+00:00
+date: 2008-12-13 11:17:46 -05:00
+permalink: "/2008-12-13/hello-world/"
+categories:
+- Notebook
+tags:
+- MySQL
+id: 1
 author: Jonathon
 excerpt: |
   I just wanted to quickly mention something about how MySQL handles out-of-disk-space situations when importing an SQL file. Here's my situation:
   I have an 80GB hard disk,
   7GB free space,
   and am loading a 2GB SQL database dump .
-  
+
   No problem, right? Well not always. I started it importing and went to bed. In the morning it hadn't finished and I was getting out-of-space notifications on my taskbar.
 layout: post
 guid: http://jonathonhill.net/?p=1
-permalink: /2008-12-13/hello-world/
-categories:
-  - Notebook
-tags:
-  - MySQL
 ---
+
 Hello World of blogging!
 
 I just wanted to quickly mention something about how MySQL handles out-of-disk-space situations when importing an SQL file. Here&#8217;s my situation:

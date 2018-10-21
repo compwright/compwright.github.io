@@ -1,19 +1,20 @@
 ---
-id: 122
 title: Repair a broken MySQL slave
-date: 2009-05-02T14:30:08+00:00
+date: 2009-05-02 10:30:08 -04:00
+permalink: "/2009-05-02/repair-a-broken-mysql-slave/"
+categories:
+- Notebook
+tags:
+- MySQL
+- Repair
+- Replication
+- Slave
+id: 122
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=122
-permalink: /2009-05-02/repair-a-broken-mysql-slave/
-categories:
-  - Notebook
-tags:
-  - MySQL
-  - Repair
-  - Replication
-  - Slave
 ---
+
 If a MySQL slave encounters an error while replicating commands from the master, the slave will abort.
 
 One way this can happen is if you are using triggers on a table that calls a stored procedure, but the stored procedures are missing on the slave because you forgot to include the &#8211;routines option when generating a mysqldump from the master to import to the slave.

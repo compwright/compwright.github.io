@@ -1,19 +1,20 @@
 ---
-id: 304
 title: Enabling a Dell Wireless 1370 network adapter (BCM4328) on Ubuntu Linux
-date: 2011-10-04T18:40:07+00:00
+date: 2011-10-04 14:40:07 -04:00
+permalink: "/2011-10-04/enabling-a-dell-wireless-1370-network-adapter-bcm4328-on-ubuntu-linux/"
+categories:
+- Notebook
+tags:
+- BCM4328
+- Linux Mint
+- ndiswrapper
+- Ubuntu
+id: 304
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=304
-permalink: /2011-10-04/enabling-a-dell-wireless-1370-network-adapter-bcm4328-on-ubuntu-linux/
-categories:
-  - Notebook
-tags:
-  - BCM4328
-  - Linux Mint
-  - ndiswrapper
-  - Ubuntu
 ---
+
 After three recent virus infections on Windows XP and Windows 7 (including at least one rootkit infection), I turned to <a href="http://www.ubuntu.com" target="_blank">Ubuntu Linux</a> as a safer operating system. Two of the PCs were blessed with Atheros-based wireless network adapters, which are well-supported on Linux. The other laptop, a Dell Inspiron 2200, is blessed with one of those infamous Broadcom chipsets.
 
 Supposedly, the <a href="http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?title=Dell_Wireless_1370" target="_blank">BCM4328</a> (rev 02) wireless chipset is <a title="b43 and b43legacy Linux wireless drivers" href="http://linuxwireless.org/en/users/Drivers/b43" target="_blank">supported on Linux</a>, but as of Ubuntu Desktop 11.04 and Linux Mint 11, it doesn&#8217;t work reliably. So I turned to the old tried-and-true <a href="http://en.wikipedia.org/wiki/NDISwrapper" target="_blank">ndiswrapper</a> to run the BCM4328 <a href="http://ftp.us.dell.com/network/R115321.EXE" target="_blank">Windows driver</a> under Linux.<!--more-->

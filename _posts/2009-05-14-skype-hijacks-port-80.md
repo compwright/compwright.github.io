@@ -1,18 +1,19 @@
 ---
-id: 129
 title: Skype hijacks port 80
-date: 2009-05-14T10:20:20+00:00
+date: 2009-05-14 06:20:20 -04:00
+permalink: "/2009-05-14/skype-hijacks-port-80/"
+categories:
+- Notebook
+tags:
+- Apache
+- Port 80
+- Skype
+id: 129
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=129
-permalink: /2009-05-14/skype-hijacks-port-80/
-categories:
-  - Notebook
-tags:
-  - Apache
-  - Port 80
-  - Skype
 ---
+
 Imagine my dismay and perplexity today when Apache suddenly stopped working on my development PC. Checking the Windows event log revealed this error:
 
 <pre>The Apache service named  reported the following error:

@@ -1,17 +1,18 @@
 ---
-id: 338
 title: How to install an SSL certificate for Apache, from start to finish
-date: 2012-06-22T13:45:09+00:00
+date: 2012-06-22 09:45:09 -04:00
+permalink: "/2012-06-22/how-to-install-an-ssl-certificate-for-apache-from-start-to-finish/"
+categories:
+- Notebook
+tags:
+- Apache
+- SSL
+id: 338
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=338
-permalink: /2012-06-22/how-to-install-an-ssl-certificate-for-apache-from-start-to-finish/
-categories:
-  - Notebook
-tags:
-  - Apache
-  - SSL
 ---
+
   1. ## Create an SSL key to use to generate the certificate signing request
     
     (Save this, you&#8217;ll need it to install the certificate). To generate the keys for the Certificate Signing Request (CSR) run the following command from a terminal prompt:

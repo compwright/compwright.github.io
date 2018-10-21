@@ -1,20 +1,21 @@
 ---
-id: 115
 title: Auto-start a shell script on Ubuntu Server
-date: 2009-04-23T12:13:21+00:00
+date: 2009-04-23 08:13:21 -04:00
+permalink: "/2009-04-23/auto-start-a-shell-script-on-ubuntu-server/"
+categories:
+- Notebook
+tags:
+- Autostart
+- init.d
+- Linux
+- Shell
+- Ubuntu
+id: 115
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=115
-permalink: /2009-04-23/auto-start-a-shell-script-on-ubuntu-server/
-categories:
-  - Notebook
-tags:
-  - Autostart
-  - init.d
-  - Linux
-  - Shell
-  - Ubuntu
 ---
+
 Got a shell script that you want automatically run at bootup on Ubuntu Server Edition? Here&#8217;s how:
 
   1. Create a script in the /etc/init.d/ directory

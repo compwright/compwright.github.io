@@ -1,17 +1,18 @@
 ---
-id: 354
 title: Just-in-time $GLOBALS
-date: 2012-07-10T21:22:00+00:00
+date: 2012-07-10 17:22:00 -04:00
+permalink: "/2012-07-10/jit-globals/"
+categories:
+- Notebook
+tags:
+- globals
+- PHP
+id: 354
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=354
-permalink: /2012-07-10/jit-globals/
-categories:
-  - Notebook
-tags:
-  - globals
-  - PHP
 ---
+
 **Update**—Turns out, this isn&#8217;t actually a bug. Rasmus Lerdorf has already explained this behavior in response to <a href="https://bugs.php.net/bug.php?id=54131#1299042912" target="_blank">a bug report</a>:
 
 > This is not a bug. It is a documented optimization feature. See <http://php.net/manual/en/ini.core.php> and look for the section on <a href="http://www.php.net/manual/en/ini.core.php#ini.auto-globals-jit" target="_blank"><code>auto_globals_jit</code></a> with the big pink warning which says, &#8220;Usage of SERVER and ENV variables is checked during compile time so using them through e.g. variable variables will not cause their initialization.&#8221;

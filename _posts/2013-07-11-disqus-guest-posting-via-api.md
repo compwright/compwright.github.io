@@ -1,17 +1,18 @@
 ---
-id: 416
 title: Disqus guest posting via API
-date: 2013-07-11T19:13:55+00:00
+date: 2013-07-11 15:13:55 -04:00
+permalink: "/2013-07-11/disqus-guest-posting-via-api/"
+categories:
+- Notebook
+tags:
+- API
+- disqus
+id: 416
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=416
-permalink: /2013-07-11/disqus-guest-posting-via-api/
-categories:
-  - Notebook
-tags:
-  - API
-  - disqus
 ---
+
 While evaluating the <a href="http://disqus.com/" target="_blank">Disqus</a> <a href="http://disqus.com/api/docs/" target="_blank">API</a> for things like posting and flagging as a guest, I was baffled by this non-descript error:
 
     {"code":12,"response":"This application cannot create posts on the chosen forum"}

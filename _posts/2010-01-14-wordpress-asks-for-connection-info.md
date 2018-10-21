@@ -1,16 +1,17 @@
 ---
-id: 221
 title: What to do when WordPress 2.8+ asks for connection info to upgrade a plugin
-date: 2010-01-14T08:28:29+00:00
+date: 2010-01-14 03:28:29 -05:00
+permalink: "/2010-01-14/wordpress-asks-for-connection-info/"
+categories:
+- Notebook
+tags:
+- Wordpress
+id: 221
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=221
-permalink: /2010-01-14/wordpress-asks-for-connection-info/
-categories:
-  - Notebook
-tags:
-  - Wordpress
 ---
+
 I was getting this when trying to upgrade a plugin automatically within [WordPress](http://wordpress.org):
 
 <img class="alignnone" title="Connection info needed" src="http://www.chrisabernethy.com/wp-content/uploads/2008/12/connection_info_needed.jpg" alt="" width="470" height="262" />

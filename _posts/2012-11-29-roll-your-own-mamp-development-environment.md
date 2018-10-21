@@ -1,19 +1,20 @@
 ---
-id: 370
 title: Roll your own MAMP development environment
-date: 2012-11-29T09:54:24+00:00
+date: 2012-11-29 04:54:24 -05:00
+permalink: "/2012-11-29/roll-your-own-mamp-development-environment/"
+categories:
+- Notebook
+tags:
+- Apache
+- MAMP
+- MySQL
+- PHP
+id: 370
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=370
-permalink: /2012-11-29/roll-your-own-mamp-development-environment/
-categories:
-  - Notebook
-tags:
-  - Apache
-  - MAMP
-  - MySQL
-  - PHP
 ---
+
 Pre-packaged MAMP, LAMP, and WAMP stacks have been common on developer&#8217;s computers for years. Such packages are convenient because they provide a single-step install process, with all components in the server stack preconfigured to work together, and off you go.
 
 [Except when they don&#8217;t](/2012-06-22/cannot-run-a-binary-executable-from-php-and-mamp/ "Cannot run a binary executable from PHP and MAMP?").

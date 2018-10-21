@@ -1,19 +1,20 @@
 ---
-id: 174
 title: Improving INSERT INTO … SELECT Performance
-date: 2009-07-29T20:59:21+00:00
+date: 2009-07-29 16:59:21 -04:00
+permalink: "/2009-07-29/improving-insert-into-%e2%80%a6-select-performance/"
+categories:
+- Notebook
+tags:
+- Concurrency
+- Drizzle
+- MySQL
+- Replication
+id: 174
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=174
-permalink: '/2009-07-29/improving-insert-into-%e2%80%a6-select-performance/'
-categories:
-  - Notebook
-tags:
-  - Concurrency
-  - Drizzle
-  - MySQL
-  - Replication
 ---
+
 INSERT INTO&#8230;SELECT locks the table being read by the SELECT statement due to MySQL 5.0&#8217;s statement-based replication. Here&#8217;s a great post from the MySQL Performance Blog explaining the problem in detail and what to do about it.
 
 Note: this problem is supposed to be eliminated when using MySQL 5.1 row-based replication.

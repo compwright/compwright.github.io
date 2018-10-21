@@ -1,20 +1,21 @@
 ---
-id: 185
 title: How to handle headers and footers in CodeIgniter
-date: 2009-08-27T18:14:24+00:00
+date: 2009-08-27 14:14:24 -04:00
+permalink: "/2009-08-27/how-to-handle-headers-and-footers-in-codeigniter/"
+categories:
+- Notebook
+tags:
+- CodeIgniter
+- Footers
+- Headers
+- PHP
+- Views
+id: 185
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=185
-permalink: /2009-08-27/how-to-handle-headers-and-footers-in-codeigniter/
-categories:
-  - Notebook
-tags:
-  - CodeIgniter
-  - Footers
-  - Headers
-  - PHP
-  - Views
 ---
+
 I got this question from a reader and thought it would be useful to post for everyone:
 
 > Hi Jonathon,

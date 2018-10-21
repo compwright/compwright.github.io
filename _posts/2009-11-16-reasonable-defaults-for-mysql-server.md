@@ -1,17 +1,18 @@
 ---
-id: 195
 title: Reasonable Defaults for MySQL Server
-date: 2009-11-16T06:05:02+00:00
+date: 2009-11-16 01:05:02 -05:00
+permalink: "/2009-11-16/reasonable-defaults-for-mysql-server/"
+categories:
+- Notebook
+tags:
+- Hardening
+- MySQL
+id: 195
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=195
-permalink: /2009-11-16/reasonable-defaults-for-mysql-server/
-categories:
-  - Notebook
-tags:
-  - Hardening
-  - MySQL
 ---
+
 [Jeremy Zawodny](http://jeremy.zawodny.com/blog/) posted [yet another great article](http://www.linux-mag.com/id/7615) over at Linux Magazine on some improved defaults that can save you a lot of grief when your network fails intermittently. In summary:
 
 **Faster replication heartbeat** (old default is 3600 seconds = 1 hour):

@@ -1,19 +1,20 @@
 ---
-id: 410
 title: Send mail() using PHP on Mac OS X
-date: 2013-04-19T14:21:43+00:00
+date: 2013-04-19 10:21:43 -04:00
+permalink: "/2013-04-19/send-mail-using-php-on-mac-os-x/"
+categories:
+- Notebook
+tags:
+- Mac
+- mail
+- PHP
+- sendmail
+id: 410
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=410
-permalink: /2013-04-19/send-mail-using-php-on-mac-os-x/
-categories:
-  - Notebook
-tags:
-  - Mac
-  - mail
-  - PHP
-  - sendmail
 ---
+
 Thanks to <a href="http://benjaminrojas.net/configuring-postfix-to-send-mail-from-mac-os-x-mountain-lion/" target="_blank">Benjamin Rojas</a>, <a href="http://theandystratton.com/2009/fix-phps-mail-function-after-latest-os-x-leopard-update" target="_blank">Andy Stratton</a>, and a <a href="http://jspr.tndy.me/php-mail-and-osx-leopard/" target="_blank">tip from Jasper</a>, I was able to successfully send email from my home-brewed MAMP environment. Here&#8217;s the summary.
 
   1. Add the following to your `/etc/postfix/sasl_passwd` file: 

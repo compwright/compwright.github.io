@@ -1,19 +1,20 @@
 ---
-id: 248
 title: Catching the Javascript beforeunload event, the cross-browser way
-date: 2011-03-04T11:36:40+00:00
+date: 2011-03-04 06:36:40 -05:00
+permalink: "/2011-03-04/catching-the-javascript-beforeunload-event-the-cross-browser-way/"
+categories:
+- Notebook
+tags:
+- beforeunload
+- Javascript
+- jQuery
+- onbeforeunload
+id: 248
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=248
-permalink: /2011-03-04/catching-the-javascript-beforeunload-event-the-cross-browser-way/
-categories:
-  - Notebook
-tags:
-  - beforeunload
-  - Javascript
-  - jQuery
-  - onbeforeunload
 ---
+
 Javascript&#8217;s `window.onbeforeunload` event is useful for catching users that try to browse away from your page without having completed a certain action. Modern web applications such as <a href="http://gmail.com" target="_blank">Gmail</a> and <a href="http://wordpress.org" target="_blank">WordPress</a> have made good use of this event.
 
 Being a non-standard event originally invented by Microsoft back in the IE4 days, `window.onbeforeunload` has some real quirks, although thankfully every major modern browser does support it.

@@ -1,17 +1,18 @@
 ---
+title: Master-Master MySQL Replication&#8230;that hurts less
+date: 2011-09-30 03:53:54 -04:00
+permalink: "/2011-09-30/mysql-replication-that-hurts-less/"
+categories:
+- Notebook
+tags:
+- MySQL
+- Replication
 id: 288
-title: 'Master-Master MySQL Replication&#8230;that hurts less'
-date: 2011-09-30T07:53:54+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=288
-permalink: /2011-09-30/mysql-replication-that-hurts-less/
-categories:
-  - Notebook
-tags:
-  - MySQL
-  - Replication
 ---
+
 If you have ever touched a MySQL slave, you know that they can and do frequently halt. While sync problems can be caused by many things—network outages, schema changes, etc—one of the most common problems in a dual-master setup is primary key collision.
 
 ## Primary Key Collision

@@ -1,19 +1,20 @@
 ---
+title: Axioms of building a &#8220;boring&#8221; system
+date: 2009-08-11 09:41:24 -04:00
+permalink: "/2009-08-11/axioms-of-building-a-boring-system/"
+categories:
+- Notebook
+tags:
+- Architecture
+- Engineering
+- Percona
+- Stability
 id: 179
-title: 'Axioms of building a &#8220;boring&#8221; system'
-date: 2009-08-11T13:41:24+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=179
-permalink: /2009-08-11/axioms-of-building-a-boring-system/
-categories:
-  - Notebook
-tags:
-  - Architecture
-  - Engineering
-  - Percona
-  - Stability
 ---
+
 From a [presentation from Percona](http://www.percona.com/ppc2009/PPC2009_Boring_MySQL.pdf). This should be on every developer&#8217;s wall:
 
   1. If it worked 10, 20, 30 years ago, it is worth considering.

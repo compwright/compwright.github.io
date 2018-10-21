@@ -1,19 +1,20 @@
 ---
-id: 283
 title: Heartbeat logging while consuming Twitter streams using Phirehose
-date: 2011-06-11T10:15:49+00:00
+date: 2011-06-11 06:15:49 -04:00
+permalink: "/2011-06-11/phirehose-heartbeat-logging/"
+categories:
+- Notebook
+tags:
+- API
+- Phirehose
+- PHP
+- Twitter
+id: 283
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=283
-permalink: /2011-06-11/phirehose-heartbeat-logging/
-categories:
-  - Notebook
-tags:
-  - API
-  - Phirehose
-  - PHP
-  - Twitter
 ---
+
 <a href="http://github.com/fennb/phirehose" target="_blank">Phirehose</a> is an awesomely useful <a href="http://dev.twitter.com/pages/streaming_api" target="_blank">Twitter Streaming API</a> client library, written in PHP by <a href="http://github.com/fennb" target="_blank">Fenn Bailey</a>.
 
 Heartbeat logging is something that I originally added for <a href="http://rainmakerapp.com" target="_blank">Rainmaker</a>, and I finally got around to contributing those modifications, which you can see here on <a href="https://github.com/fennb/phirehose/commit/7118ca973f67998a72a303497f6f6a6ced1099b8" target="_blank">GitHub</a>.

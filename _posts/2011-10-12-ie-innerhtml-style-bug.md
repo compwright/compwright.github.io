@@ -1,19 +1,20 @@
 ---
-id: 314
 title: IE innerHTML CSS bug
-date: 2011-10-12T15:51:22+00:00
+date: 2011-10-12 11:51:22 -04:00
+permalink: "/2011-10-12/ie-innerhtml-style-bug/"
+categories:
+- Notebook
+tags:
+- bug
+- CSS
+- IE
+- Javascript
+id: 314
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=314
-permalink: /2011-10-12/ie-innerhtml-style-bug/
-categories:
-  - Notebook
-tags:
-  - bug
-  - CSS
-  - IE
-  - Javascript
 ---
+
 Today I encountered a bug that affects every version of Internet Explorer from IE6 all the way through IE9. Here&#8217;s what happens.
 
 ## The Bug

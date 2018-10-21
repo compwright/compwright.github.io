@@ -1,20 +1,21 @@
 ---
-id: 84
 title: Rules for Practical Programmers
-date: 2009-03-10T17:39:28+00:00
+date: 2009-03-10 13:39:28 -04:00
+permalink: "/2009-03-10/rules-for-practical-programmers/"
+categories:
+- Notebook
+tags:
+- Business
+- Frameworks
+- Patterns
+- Philosophy
+- Syntax
+id: 84
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/2009-03-10/rules-for-practical-programmers/
-permalink: /2009-03-10/rules-for-practical-programmers/
-categories:
-  - Notebook
-tags:
-  - Business
-  - Frameworks
-  - Patterns
-  - Philosophy
-  - Syntax
 ---
+
 Here are some observations I&#8217;ve gathered from writing a variety of programs in PHP over the last year. Do you have one I should add? Please share it and post it in the comments.
 
 ### 1) Don&#8217;t waste time re-inventing the wheel unless you can make a significantly better one.

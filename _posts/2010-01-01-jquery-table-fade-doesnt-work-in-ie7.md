@@ -1,19 +1,20 @@
 ---
+title: jQuery table fade doesn&#8217;t work in IE7
+date: 2010-01-01 16:19:41 -05:00
+permalink: "/2010-01-01/jquery-table-fade-doesnt-work-in-ie7/"
+categories:
+- Notebook
+tags:
+- effects
+- IE7
+- jQuery
+- opacity
 id: 217
-title: 'jQuery table fade doesn&#8217;t work in IE7'
-date: 2010-01-01T21:19:41+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=217
-permalink: /2010-01-01/jquery-table-fade-doesnt-work-in-ie7/
-categories:
-  - Notebook
-tags:
-  - effects
-  - IE7
-  - jQuery
-  - opacity
 ---
+
 While working on an up-and-coming web service, I found that apparently Internet Explorer does not cope well with fading `<table>` elements using [jQuery](http://jquery.com). Here&#8217;s what I was doing:
 
 <pre name="code" class="javascript">tbl = $('#primaryColumn table');

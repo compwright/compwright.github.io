@@ -1,20 +1,21 @@
 ---
-id: 126
 title: 10 Tips for Optimizing MySQL Queries
-date: 2009-05-04T18:43:35+00:00
+date: 2009-05-04 14:43:35 -04:00
+permalink: "/2009-05-04/10-tips-for-optimizing-mysql-queries-that-don%e2%80%99t-suck/"
+categories:
+- Notebook
+tags:
+- 20bits
+- EXPLAIN
+- MySQL
+- Optimizing
+- Queries
+id: 126
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=126
-permalink: '/2009-05-04/10-tips-for-optimizing-mysql-queries-that-don%e2%80%99t-suck/'
-categories:
-  - Notebook
-tags:
-  - 20bits
-  - EXPLAIN
-  - MySQL
-  - Optimizing
-  - Queries
 ---
+
 In my quest to understand MySQL&#8217;s EXPLAIN statement and to learn more strategies for optimizing queries, I came across this excellent blog post from 20bits by Jesse Farmer:
 
 <http://20bits.com/articles/10-tips-for-optimizing-mysql-queries-that-dont-suck/>

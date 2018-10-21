@@ -1,18 +1,19 @@
 ---
-id: 90
 title: How FriendFeed uses MySQL to store schema-less data
-date: 2009-03-20T05:30:55+00:00
+date: 2009-03-20 01:30:55 -04:00
+permalink: "/2009-03-20/how-friendfeed-uses-mysql-to-store-schema-less-data/"
+categories:
+- Notebook
+tags:
+- MySQL
+- Scaling
+- Schema-less
+id: 90
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=90
-permalink: /2009-03-20/how-friendfeed-uses-mysql-to-store-schema-less-data/
-categories:
-  - Notebook
-tags:
-  - MySQL
-  - Scaling
-  - Schema-less
 ---
+
 This is beautiful! Check out <a title="How FriendFeed uses MySQL to store schema-less data" href="http://bret.appspot.com/entry/how-friendfeed-uses-mysql" target="_blank">this post</a> on Bret Taylor&#8217;s blog:
 
 > We use MySQL for storing all of the data in FriendFeed. Our database has grown a lot as our user base has grown. We now store over 250 million entries and a bunch of other data, from comments and &#8220;likes&#8221; to friend lists.

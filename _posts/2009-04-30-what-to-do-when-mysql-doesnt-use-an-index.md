@@ -1,21 +1,22 @@
 ---
+title: What to do when MySQL doesn&#8217;t use an index&#8230;
+date: 2009-04-30 22:43:02 -04:00
+permalink: "/2009-05-01/what-to-do-when-mysql-doesnt-use-an-index/"
+categories:
+- Notebook
+tags:
+- Index
+- MySQL
+- Optimization
+- SQL
+- Table scan
+- UNION
 id: 119
-title: 'What to do when MySQL doesn&#8217;t use an index&#8230;'
-date: 2009-05-01T02:43:02+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=119
-permalink: /2009-05-01/what-to-do-when-mysql-doesnt-use-an-index/
-categories:
-  - Notebook
-tags:
-  - Index
-  - MySQL
-  - Optimization
-  - SQL
-  - Table scan
-  - UNION
 ---
+
 Sometimes <a href="http://dev.mysql.com/tech-resources/presentations/presentation-oscon2000-20000719/index.html" target="_blank">MySQL doesn&#8217;t use the index</a> on a column when performing a query.
 
 > Indexes are NOT used if MySQL can calculate that it will probably be faster to scan the whole table. For example if `key_part1` is evenly distributed between 1 and 100, it&#8217;s not good to use an index in the following query:

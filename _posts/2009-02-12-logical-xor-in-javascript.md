@@ -1,17 +1,18 @@
 ---
-id: 78
 title: Logical XOR in Javascript
-date: 2009-02-12T22:21:06+00:00
+date: 2009-02-12 17:21:06 -05:00
+permalink: "/2009-02-12/logical-xor-in-javascript/"
+categories:
+- Notebook
+tags:
+- Boolean Logic
+- Javascript
+id: 78
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=78
-permalink: /2009-02-12/logical-xor-in-javascript/
-categories:
-  - Notebook
-tags:
-  - Boolean Logic
-  - Javascript
 ---
+
 XOR (exclusive OR) is a boolean operation, like `&&` and `||`, but with the following logic: It is true if the expression on either side is true (like `||`), but not if both sides are true (like `&&`).
 
 Sometimes, in your JavaScript, you might want to do the following:

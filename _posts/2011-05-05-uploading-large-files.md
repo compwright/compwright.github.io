@@ -1,18 +1,19 @@
 ---
-id: 274
 title: 'Uploading large files: covering all the bases'
-date: 2011-05-05T06:27:45+00:00
+date: 2011-05-05 02:27:45 -04:00
+permalink: "/2011-05-05/uploading-large-files/"
+categories:
+- Notebook
+tags:
+- Apache
+- PHP
+- uploading
+id: 274
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=274
-permalink: /2011-05-05/uploading-large-files/
-categories:
-  - Notebook
-tags:
-  - Apache
-  - PHP
-  - uploading
 ---
+
 When uploading a file to a PHP script on an Apache web server, there are several configuration options that if improperly set can get in the way. I just encountered yet _another_ one of these, and decided to catalog them here.
 
 ## Size, Time, and Memory

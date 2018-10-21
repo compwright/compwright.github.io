@@ -1,18 +1,19 @@
 ---
-id: 311
 title: 'Writing MySQL schema migrations: best practices'
-date: 2011-10-08T21:50:25+00:00
+date: 2011-10-08 17:50:25 -04:00
+permalink: "/2011-10-08/mysql-schema-migrations-best-practices/"
+categories:
+- Notebook
+tags:
+- best practices
+- migration
+- MySQL
+id: 311
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=311
-permalink: /2011-10-08/mysql-schema-migrations-best-practices/
-categories:
-  - Notebook
-tags:
-  - best practices
-  - migration
-  - MySQL
 ---
+
 Building MySQL web applications with a team of developers will inevitably present the challenge of database schema changes. Any good web developer understands the importance of keeping all code under version control, but how many follow the same principle for the database?
 
 What follows are some best practices that I have learned over the past several years from the school of hard knocks.<!--more-->

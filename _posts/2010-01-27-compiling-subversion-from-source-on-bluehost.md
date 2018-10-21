@@ -1,18 +1,19 @@
 ---
-id: 223
 title: Compiling subversion from source on Bluehost
-date: 2010-01-27T07:13:29+00:00
+date: 2010-01-27 02:13:29 -05:00
+permalink: "/2010-01-27/compiling-subversion-from-source-on-bluehost/"
+categories:
+- Notebook
+tags:
+- Bluehost
+- Shared Hosting
+- Subversion
+id: 223
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=223
-permalink: /2010-01-27/compiling-subversion-from-source-on-bluehost/
-categories:
-  - Notebook
-tags:
-  - Bluehost
-  - Shared Hosting
-  - Subversion
 ---
+
 I recently had to [install the subversion client](http://www.bluehostforum.com/showpost.php?p=51455&postcount=19) in a shared hosting environment (specifically [Bluehost](http://bluehost.com), but these instructions probably work with other web hosts as well). It goes like this:
 
 **1) Add these lines into `~/.bash_profile`**

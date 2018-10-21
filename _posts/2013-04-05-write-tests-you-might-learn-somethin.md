@@ -1,19 +1,20 @@
 ---
-id: 405
 title: Write tests, you might learn something
-date: 2013-04-05T11:43:28+00:00
+date: 2013-04-05 07:43:28 -04:00
+permalink: "/2013-04-05/write-tests-you-might-learn-somethin/"
+categories:
+- Notebook
+tags:
+- aes-256
+- mcrypt
+- phpunit
+- testing
+id: 405
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=405
-permalink: /2013-04-05/write-tests-you-might-learn-somethin/
-categories:
-  - Notebook
-tags:
-  - aes-256
-  - mcrypt
-  - phpunit
-  - testing
 ---
+
 Writing unit tests for your code is widely regarded as a best practice. There are many excuses for _not_ writing tests: time, cost, and the fun factor. Excuses aside, there are some <a href="http://twitpic.com/7c4k9m" target="_blank">Good Reasons</a> to write tests for your code. I just discovered one today.
 
 ## Write tests, you might learn something&#8230;faster

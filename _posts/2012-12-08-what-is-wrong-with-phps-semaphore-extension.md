@@ -1,17 +1,18 @@
 ---
+title: What Is Wrong With PHP&#8217;s Semaphore Extension
+date: 2012-12-08 16:27:20 -05:00
+permalink: "/2012-12-08/what-is-wrong-with-phps-semaphore-extension/"
+categories:
+- Notebook
+tags:
+- PHP
+- Semaphore
 id: 392
-title: 'What Is Wrong With PHP&#8217;s Semaphore Extension'
-date: 2012-12-08T21:27:20+00:00
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=392
-permalink: /2012-12-08/what-is-wrong-with-phps-semaphore-extension/
-categories:
-  - Notebook
-tags:
-  - PHP
-  - Semaphore
 ---
+
 ## Lack of a true Semaphore
 
 > **sem_release()** releases the semaphore if it is currently acquired by the calling process, otherwise a warning is generated.

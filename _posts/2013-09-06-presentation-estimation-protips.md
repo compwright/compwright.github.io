@@ -1,18 +1,19 @@
 ---
-id: 422
 title: 'Presentation: Estimation Protips'
-date: 2013-09-06T07:05:16+00:00
+date: 2013-09-06 03:05:16 -04:00
+permalink: "/2013-09-06/presentation-estimation-protips/"
+categories:
+- Notebook
+tags:
+- Atlanta PHP
+- Estimation
+- Presentations
+id: 422
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=422
-permalink: /2013-09-06/presentation-estimation-protips/
-categories:
-  - Notebook
-tags:
-  - Atlanta PHP
-  - Estimation
-  - Presentations
 ---
+
 Estimation is a topic which is extremely important to running a successful software development company, whether you are a digital agency (like <a href="http://brandmovers.com" target="_blank">Brandmovers</a>) or a freelancer working solo.
 
 I was honored to be the featured speaker for the <a href="http://atlantaphp.org/september-2013-meeting/" target="_blank">September 2013 meeting</a> of the <a href="http://atlantaphp.org/" target="_blank">Atlanta PHP User Group</a>. The slides are below in case you missed it. If you are interested in the topic, there is supporting documentation below for reference.
