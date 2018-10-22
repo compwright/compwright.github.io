@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<h1>Projects</h1>
+
+<section>
+  <header>
+    <h2>Online Tools</h2>
+  </header>
+
+  {% assign projects = site.projects | where_exp: "item", "item.category == 'tools'" %}
+  {% for project in projects %}
+  <article>
+    <h3><a href="{{project.permalink}}" target="_blank">{{project.title}}</a></h3>
+    <p>{{project.description}}</p>
+  </article>
+  {% endfor %}
+</section>
+
+<section>
+  <header>
+    <h2>Javascript Libraries</h2>
+  </header>
+
+  {% assign projects = site.projects | where_exp: "item", "item.category == 'javascript:npm'" %}
+  {% for project in projects %}
+  <article>
+    <h3><a href="{{project.permalink}}" target="_blank">{{project.title}}</a></h3>
+    <a href="https://npmjs.com/package/{{project.title}}" target="_blank">
+      <img src="https://img.shields.io/npm/v/{{project.title}}.svg" alt="{{project.title}}">
+      <img src="https://img.shields.io/npm/dt/{{project.title}}.svg" alt="{{project.title}}">
+    </a>
+    <p>{{project.description}}</p>
+  </article>
+  {% endfor %}
+</section>
+
+<section>
+  <header>
+    <h2>PHP Libraries</h2>
+  </header>
+
+  {% assign projects = site.projects | where_exp: "item", "item.category == 'php:composer'" %}
+  {% for project in projects %}
+  <article>
+    <h3><a href="{{project.permalink}}" target="_blank">{{project.title}}</a></h3>
+    <a href="https://packagist.org/packages/{{project.title}}" target="_blank">
+      <img src="https://img.shields.io/packagist/v/{{project.title}}.svg" alt="{{project.title}}">
+      <img src="https://img.shields.io/packagist/dt/{{project.title}}.svg" alt="{{project.title}}">
+    </a>
+    <p>{{project.description}}</p>
+  </article>
+  {% endfor %}
+</section>
