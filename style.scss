@@ -68,6 +68,13 @@ p {
   margin: 15px 0;
 }
 
+blockquote {
+  margin-left: 2em;
+  color: $gray;
+  font-style: italic;
+  font-weight: 200;
+}
+
 a {
   color: $blue;
   text-decoration: none;
@@ -286,3 +293,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+@import "buttons";

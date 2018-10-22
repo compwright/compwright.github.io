@@ -4,9 +4,9 @@ permalink: "/"
 layout: page
 ---
 
-_Comp(uter) + Wright (a maker, or builder--a craftsman)_
+I build beautiful things for the web.
 
-There are hackers, and there are craftsman. I'm a craftsman--I build beautiful things for the web.
+<a href="/projects" class="button">Things I've Made</a>
 
 ## Hire me
 
