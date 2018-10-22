@@ -8,6 +8,9 @@ collections:
   projects:
     title: Projects
     output: true
+  demos:
+    title: Demos
+    output: true
 name: CompWright Enterprises
 description: Hello, I'm Jonathon Hill. I build things for the web.
 avatar: https://secure.gravatar.com/avatar/0954b07694d217460222ae1dc5fa9c40?size=200
