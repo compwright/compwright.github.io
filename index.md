@@ -1,12 +1,27 @@
 ---
-title: Let's Make a Thing
 permalink: "/"
-layout: page
+layout: default
+noheader: true
 ---
+<header class="masthead clearfix">
+    <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+    </div>
+    <nav>
+        <a href="{{ site.baseurl }}/blog">Blog</a>
+        <a href="{{ site.baseurl }}/projects">Projects</a>
+        <a href="{{ site.baseurl }}/talks">Talks</a>
+    </nav>
+</header>
 
-I build beautiful things for the web.
-
-<a href="/projects" class="button">Things I've Made</a>
+<div style="display:flex; align-items: center;">
+    <p><img src="{{ site.avatar }}?size=200" alt="Jonathon Hill" style="margin: 0 2em 0 0; border-radius: 20px;" /></p>
+    <div>
+        <p style="font-size:140%">Greetings! 🖖</p>
+        <p>I'm Jonathon Hill. I build beautiful things for the web.</p>
+        <p><a href="/projects" class="button">Things I've Made</a></p>
+    </div>
+</div>
 
 ## Hire me
 

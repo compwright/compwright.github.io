@@ -11,9 +11,12 @@ collections:
   demos:
     title: Demos
     output: true
+  talks:
+    title: Talks
+    output: true
 name: CompWright Enterprises
 description: Hello, I'm Jonathon Hill. I build things for the web.
-avatar: https://secure.gravatar.com/avatar/0954b07694d217460222ae1dc5fa9c40?size=200
+avatar: https://secure.gravatar.com/avatar/0954b07694d217460222ae1dc5fa9c40
 footer-links:
   dribbble: 
   email: jonathon@compwright.com
@@ -42,7 +45,7 @@ kramdown:
     css_class: highlight
 sass:
   style: :expanded
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-paginate

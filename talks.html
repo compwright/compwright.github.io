@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /talks
+---
+<h1>Talks</h1>
+
+<section>
+  {% assign talks = (site.talks | sort: 'date') | reverse %}
+  {% for talk in talks %}
+  <article>
+    <h2><a href="{{talk.permalink}}" target="_blank">{{talk.title}}</a></h2>
+    <div>{{talk.content}}</div>
+    <p class="date">
+      <time datetime="{{ talk.date }}">{{ talk.date | date: "%B %e, %Y" }}</time>&mdash;{{ talk.tags }}
+    </p>
+    <p>{{talk.description}}</p>
+  </article>
+  {% endfor %}
+</section>
