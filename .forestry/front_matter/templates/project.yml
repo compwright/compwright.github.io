@@ -15,5 +15,6 @@ fields:
   name: category
   label: category
 pages:
+- _projects/worker-bee.md
 - _projects/feathers-bee-queue.md
 - _projects/aws-elasticsearch-connector.md
