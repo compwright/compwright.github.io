@@ -1,0 +1,16 @@
+---
+label: Project
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: category
+  label: category
