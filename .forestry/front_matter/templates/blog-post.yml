@@ -17,15 +17,3 @@ fields:
 - type: list
   name: tags
   label: tags
-- type: number
-  name: id
-  label: id
-- type: text
-  name: author
-  label: author
-- type: text
-  name: layout
-  label: layout
-- type: text
-  name: guid
-  label: guid
