@@ -51,4 +51,4 @@ Explanation:
 * **Lines 3-8:** inspect the method and get a simple array of parameter names that the method needs, in the correct order
 * **Line 9:** compile an array of only those variables required to satisfy the method parameters, in the correct order, from the local scope variables created at line 2.
 
-Side note: I really enjoy PHP's `[compact()](https://www.php.net/compact)`. I'm surprised I don't see more developers using it.
+Side note: I really enjoy PHP's [compact](https://www.php.net/compact) function. I'm surprised I don't see more developers using it.
