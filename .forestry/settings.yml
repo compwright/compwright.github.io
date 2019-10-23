@@ -8,6 +8,8 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: jekyll-pages
   label: Pages
   create: all
