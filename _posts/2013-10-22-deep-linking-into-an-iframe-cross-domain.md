@@ -1,17 +1,17 @@
 ---
 title: Deep linking into an iframe, cross-domain
-date: 2013-10-22 08:14:01 -04:00
+date: 2013-10-22T12:14:01.000+00:00
 permalink: "/2013-10-22/deep-linking-into-an-iframe-cross-domain/"
 categories:
 - Notebook
 tags:
 - Javascript
-id: 436
+id: "436"
 author: Jonathon
 layout: post
 guid: http://jonathonhill.net/?p=436
----
 
+---
 Why would you want to do this? My use case was a gallery application where we needed to deep-link to a specific gallery entry. Alas, the gallery would be iframed. Yes, iframes <a href="http://stackoverflow.com/questions/1081315/why-developers-hate-iframes" target="_blank">should be avoided</a>, but sometimes in real-life you have to just deal with it.
 
 Imagine my surprise when I discovered that passing the parent `window.location` object into an iframe across domains is not only possible, but is easy and <a href="http://caniuse.com/x-doc-messaging" rel="nofollow">works in most browsers</a>, down to IE8.<!--more-->
@@ -20,7 +20,7 @@ Imagine my surprise when I discovered that passing the parent `window.location` 
 
 Use `window.postMessage()` to pass messages to the iframed window.
 
-## <strong style="line-height: 1.714285714; font-size: 1rem;">Outer page</strong>
+## Outer page
 
     window.onload = function()
     {
