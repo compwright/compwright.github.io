@@ -18,5 +18,6 @@ pages:
 - _projects/aws-elasticsearch-connector.md
 - _projects/axios-retry-after.md
 - _projects/batching-queue.md
+- _projects/compwright-oauth2-housecallpro.md
 - _projects/feathers-bee-queue.md
 - _projects/worker-bee.md
